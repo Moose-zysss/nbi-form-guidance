@@ -47,11 +47,11 @@ There are no tests yet, so running pytest now will not show a passing test suite
 
 | Member | Role |
 |---|---|
-| John Moises A. Abadines | To be assigned |
-| Frenz Jay D. Cabaluna | To be assigned |
-| Aleah Kaira Mohammad | To be assigned |
-| Chrisma J. Sigal | To be assigned |
-| Jaybe Kyle S. Tacal | To be assigned |
+| John Moises A. Abadines | Project Head |
+| Frenz Jay D. Cabaluna | API Developer |
+| Aleah Kaira Mohammad | Service Developer |
+| Chrisma J. Sigal |  |Documentation Manager |
+| Jaybe Kyle S. Tacal | Test Manager |
 
 ## Team workflow
 
