@@ -161,4 +161,4 @@ Submit this contract for instructor review before implementation. Once approved,
 
 ## Acknowledgment
 
-We used ChatGPT/Codex to help draft and simplify this contract based on our Chapter 5 recommendation and the Chapter 6 instructions.
+We used ChatGPT/Codex to help design a contract.

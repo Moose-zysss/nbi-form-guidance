@@ -61,4 +61,4 @@ Have the instructor approve `docs/contract.md` before implementation. Tag the ap
 
 ## Acknowledgment
 
-We used ChatGPT/Codex to help prepare the contract and project setup. Our group will review and explain the submitted work.
+We used ChatGPT/Codex to help design a contract.
